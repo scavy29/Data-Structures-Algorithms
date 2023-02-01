@@ -1,0 +1,27 @@
+1	38,39,40
+2	41
+3	42,43
+4	44
+5	45,46
+6	47,48
+7	49
+8	50,51
+9	52,53
+10	54,55
+11	56,57
+12	58,59
+13	60
+14	61
+15	61
+
+
+
+Topics Done:
+Arrays
+LL
+Stack Queue
+Searching
+Sorting
+Bit Manipulation
+
+60% done
